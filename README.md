@@ -4,7 +4,7 @@
 > *Because their horns don’t work.*
 
 
-Poster Text Translation Project
+IndiTranslate (Poster Text Translation Project)
 
 This project translates text on posters into regional languages and maps the translated text back onto the posters, creating localized versions of visual materials. The tool utilizes advanced image processing techniques combined with natural language processing (NLP) to detect, translate, and remap text.
 
@@ -54,8 +54,8 @@ How to Use
 
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/poster-translation.git
-cd poster-translation
+git clone https://github.com/qamarali01/IndiTranslate
+cd IndiTranslate
 
 
 	2.	Prepare the Input Image:
