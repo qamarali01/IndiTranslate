@@ -89,9 +89,6 @@ Contributing
 
 If you’d like to contribute to this project, feel free to open issues or submit pull requests. Contributions such as improving the accuracy of text detection, supporting additional languages, or enhancing the mapping algorithm are welcome.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 
